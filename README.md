@@ -11,10 +11,10 @@
 ### 🧰 Tech stack
 
 <p>
-  <img src="assets/python.svg" alt="Python" height="36" />
-  <img src="assets/fastapi.svg" alt="FastAPI" height="36" />
-  <img src="assets/pytorch.svg" alt="PyTorch" height="36" />
-  <img src="assets/opencv.svg" alt="OpenCV" height="36" />
+  <img src="assets/tech-python.svg" alt="Python" height="36" />
+  <img src="assets/tech-fastapi.svg" alt="FastAPI" height="36" />
+  <img src="assets/tech-pytorch.svg" alt="PyTorch" height="36" />
+  <img src="assets/tech-opencv.svg" alt="OpenCV" height="36" />
 </p>
 
 ### 🔎 What I build
