@@ -1,0 +1,9 @@
+Technology icons are from Simple Icons (CC0-1.0):
+https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md
+
+Python: https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg
+FastAPI: https://github.com/simple-icons/simple-icons/blob/develop/icons/fastapi.svg
+PyTorch: https://github.com/simple-icons/simple-icons/blob/develop/icons/pytorch.svg
+OpenCV: https://github.com/simple-icons/simple-icons/blob/develop/icons/opencv.svg
+
+Layout, badge styling, and profile headers are custom SVG assets for this profile.
